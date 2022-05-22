@@ -782,10 +782,3 @@ Young, L. and Soroka, S. 2012. Lexicoder Sentiment Dictionary
 
 
 
-
-
-
-
-
-
-
